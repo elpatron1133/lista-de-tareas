@@ -1,0 +1,83 @@
+*{
+    margin:0;
+    padding: 0;
+}
+
+body{
+    background: linear-gradient(to right, #aa4b6b, #6b6b83, #3b8d99); 
+    color: azure;
+}
+
+
+h1,h3{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    color:white
+}
+
+.box {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-content: center;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+input.campo{
+    width: 90%;
+    height: 26px;
+    border-radius: 30px;
+    text-align: center;
+}
+.tareas-pendientes{
+    text-align: center;
+}
+.num {
+    color:red;
+
+}
+.check{
+    margin-right:10px;
+}
+
+.lista{
+    
+    
+    color:whitesmoke;
+    width: 250px;
+    height: 10%;
+    list-style-type:none;
+    font-size: 20px;
+    
+}
+
+footer{
+    position: absolute;
+    bottom:0;
+    width: 100%;
+    background: linear-gradient(to left,  hotpink,#0d7377); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    color: whitesmoke;
+    border:2px solid white
+}
+
+a {
+    color: #0d7377!important;
+    text-decoration: none!important;
+}
+
+.boton{
+    margin-top: 10px!important;
+    width: 50%;
+    margin:auto
+}
+
+.boton1{
+    width: 100px;
+    border-radius: 30px;
+    background-color: #3b8d99;
+}
+
+.imagen-foot{
+  width: 150px;
+}

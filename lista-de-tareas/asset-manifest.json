@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/lista-de-tareas/static/js/main.beb6b2a3.js",
+    "index.html": "/lista-de-tareas/index.html",
+    "main.beb6b2a3.js.map": "/lista-de-tareas/static/js/main.beb6b2a3.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.beb6b2a3.js"
+  ]
+}
